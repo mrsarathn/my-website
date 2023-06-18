@@ -1,0 +1,45 @@
+h1,h2 {
+    font-family: 'Satisfy', cursive;
+}
+
+h2 {
+  text-align: center;
+}
+
+#professional {
+
+}
+
+#contact {
+  background-image: ;
+}
+
+.lead {
+  font-size : 1.5rem;
+}
+
+strong {
+  color: navy;
+  font-weight: 600;
+}
+
+.text-body-emphasis > img {
+  margin : 10px;
+}
+
+.bi-balloon-heart-fill {
+  color : #EB6383;
+}
+
+.bi-rocket-takeoff-fill {
+  color : #FA9191;
+}
+
+.bi-piggy-bank-fill {
+  color : gold;
+}
+
+.profile-img {
+   height : 200px;
+   border-radius: 50%;
+}
